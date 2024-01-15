@@ -1,0 +1,84 @@
+.warna1 {
+    background-color: #222831;
+}
+
+.warna2 {
+    background-color: #393E46;
+}
+
+.warna3 {
+    background-color: #00ADB5;
+}
+
+.warna4 {
+    background-color: #EEEEEE;
+}
+
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.avif');
+}
+
+.highlighted-kategori {
+    height: 250px;
+}
+
+.kategori-guitar {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Guitar.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-drum {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Drum.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-piano {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Piano.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-mic {
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/Microphone.avif');
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover {
+    color: #00ADB5;
+}
+
+.text-harga {
+    font-size: 22px;
+    color: #00ADB5;
+}
+
+.image-box {
+    height: 300px;
+}
+
+.image-box img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.banner-produk {
+    height: 45vh;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../image/banner.avif');
+    background-position: 200% 60%;
+}
+
+.list-group-a {
+    text-decoration: none;
+    color: black;
+}
